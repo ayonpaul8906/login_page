@@ -1,0 +1,104 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background: url('bg.jpg') no-repeat center center fixed;  
+    background-size: cover; 
+    background-position: center center;
+    background-attachment: fixed; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;  
+}
+
+.login-box {
+    width: 100%;
+    max-width: 400px; 
+    padding: 30px;
+    background: rgba(0, 0, 0, 0.308); 
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.6);
+    color: white;
+    text-align: center;
+}
+
+.login-box h1 {
+    font-size: 30px;
+    border-bottom: 2px solid #4caf50;
+    margin-bottom: 20px;
+    padding: 10px 0;
+}
+
+.textbox {
+    width: 100%;
+    overflow: hidden;
+    font-size: 18px;
+    padding: 8px 0;
+    margin: 10px 0;
+    border-bottom: 1px solid #4caf50;
+}
+
+.textbox i {
+    width: 26px;
+    float: left;
+    text-align: center;
+    color: #4caf50;
+}
+
+.textbox input {
+    border: none;
+    outline: none;
+    background: none;
+    color: white;
+    font-size: 18px;
+    width: 80%;
+    float: left;
+    margin: 0 10px;
+}
+
+.textbox input ::before{
+    color: red;
+}
+
+input::placeholder {
+    color:#0000005e; 
+
+}
+
+.btn {
+    width: 100%;
+    background: none;
+    border: 2px solid #4caf50;
+    padding: 10px;
+    font-size: 18px;
+    cursor: pointer;
+    margin: 15px 0;
+    color: white;
+    border-radius: 5px;
+}
+
+.btn:active {
+    background-color: #4caf50;
+    color: #000;
+}
+
+/* Media Query for mobile devices */
+@media (max-width: 600px) {
+    .login-box {
+        width: 90%; 
+        padding: 20px;
+    }
+
+    .login-box h1 {
+        font-size: 25px;
+    }
+
+    .textbox input {
+        font-size: 16px;
+    }
+
+    .btn {
+        font-size: 16px;
+    }
+}
