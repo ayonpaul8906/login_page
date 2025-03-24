@@ -52,9 +52,9 @@ The Login Page project is a modern, responsive web template designed to serve as
 ## 📂 Repository Structure
 
 Login_Page/  
-├── index.html     # Main HTML file  
-├── styles.css     # CSS for styling  
-└── README.md      # Project documentation  
+├── **index.html**     # Main HTML file  
+├── **styles.css**     # CSS for styling  
+└── **README.md**     # Project documentation  
 
 ## 🤝 Contributing
 
