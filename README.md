@@ -1,4 +1,3 @@
-
 # Login Page 🔒
 
 A sleek and responsive login template for modern web applications.
