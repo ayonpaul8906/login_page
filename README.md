@@ -1,20 +1,4 @@
-# Login Page 🔒
 
-A sleek and responsive login template for modern web applications.
-
-
-## 📖 Overview
-
-The Login Page project is a modern, responsive web template designed to serve as the front-facing gateway for authentication in web applications. Built with a clean and professional aesthetic, this template provides users with an intuitive interface for secure login. The design emphasizes accessibility, user experience, and compatibility, making it a versatile choice for developers to integrate into a wide range of projects.
-## ✨ Features
-
-- **Responsive Layout📱:** Adapts seamlessly to all screen sizes for optimal viewing.
-
-- **Modern Design🎨:** Minimalistic and visually appealing user interface.
-
-- **User-friendly👥:** Intuitive design ensuring smooth user interactions.
-
-- **Easy Integration🔗:** Simple to customize and integrate into various web projects.
 
 
 ## 🛠️ Technologies Used
